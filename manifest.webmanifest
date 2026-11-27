@@ -1,0 +1,18 @@
+{
+  "name": "ICAR Agriculture Master Checklist",
+  "short_name": "ICAR Agriculture",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f5ec",
+  "theme_color": "#f7f3df",
+  "description": "Integrated ICAR T-3/T-4 Agriculture syllabus checklist, works offline.",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
